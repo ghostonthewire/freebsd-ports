@@ -1,7 +1,7 @@
 # $FreeBSD$
 
 PORTNAME=	dateutils
-PORTVERSION=	0.2.7
+PORTVERSION=	0.4.1
 CATEGORIES=	sysutils
 MASTER_SITES=	https://bitbucket.org/hroptatyr/dateutils/downloads/
 
